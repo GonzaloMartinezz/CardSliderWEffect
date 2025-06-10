@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #daa30e6b;
+  background: #4d9d816b;
 }
 .container {
   position: relative;
@@ -28,7 +28,7 @@ body {
   object-fit: cover;
   border-radius: 50%;
   opacity: .8;
-  border: 3px solid #552c2c;
+  border: 3px solid #2c5548;
 }
 .card {
   position: relative;
@@ -80,7 +80,7 @@ body {
   align-items: center;
   flex-direction: column;
   margin-top: 10px;
-  color: #333;
+  color: #030e0d;
 }
 .name-profession .name {
   font-size: 20px;
