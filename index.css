@@ -28,7 +28,7 @@ body {
   object-fit: cover;
   border-radius: 50%;
   opacity: .8;
-  border: 3px solid #2c5548;
+  border: 3px solid #000000;
 }
 .card {
   position: relative;
@@ -111,7 +111,7 @@ body {
   box-shadow: 0 2px 2px rgba(0, 0, 0, .25);
   cursor: pointer;
   font-size: 16px;
-  color: #fff;
+  color: #000000;
   font-weight: 500;
   opacity: .75;
   margin-top: 30px;
@@ -129,7 +129,7 @@ body {
 }
 .box .swiper-button-next,
 .box .swiper-button-prev {
-  color: #666;
+  color: #000000;
 }
 .box .swiper-button-next {
   right: 0;
@@ -140,5 +140,5 @@ body {
 .box .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background: #666;
+  background: #000000;
 }
